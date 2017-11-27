@@ -76,7 +76,7 @@ button.long-text {
 }
 
 .react-calculator {
-  position: position;
+  position: fixed;
   margin: 0 auto;
   width: 320px;
   
