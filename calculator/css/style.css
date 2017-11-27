@@ -14,19 +14,17 @@ html,
 body {
   position: relative;
   
-  width: 10%;
-  height: 50%;
+  width: 90%;
+  height: 90%;
   background-image: -webkit-linear-gradient(top left, #5cc8ff 0%, #d63c6b 100%);
   background-image: linear-gradient(to bottom right, #5cc8ff 0%, #d63c6b 100%);
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  
 }
 
 body {
-  padding-top: 1px;
+  padding-top: 100px;
   padding-bottom: 1px;
-  padding-right: 1px;
-  padding-left: 1px;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
