@@ -10,6 +10,11 @@
   box-sizing: border-box;
 }
 
+body {
+    display: inline;
+    margin: 8px;
+}
+
 html,
 body {
   position: relative;
